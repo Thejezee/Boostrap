@@ -1,0 +1,72 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+  }
+  
+  .navbar {
+    padding: 1.5rem 0;
+  }
+  
+  .navbar-brand {
+    font-size: 1.75rem;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    font-size: 1.1rem;
+    margin-left: 2rem;
+  }
+  
+  .hero {
+    min-height: 80vh;
+    background-color: #f8f9fa;
+  }
+  
+  .hero h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+  }
+  
+  .hero .lead {
+    font-size: 1.75rem;
+  }
+
+  .products {
+    padding: 4rem 0;
+  }
+  
+  .products h2 {
+    font-size: 2.75rem;
+    font-weight: bold;
+    margin-bottom: 2.5rem;
+  }
+  
+  .products .card {
+    border: none;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  }
+  
+  .products .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  .about {
+    padding: 4rem 0;
+  }
+  
+  .about h2 {
+    font-size: 2.75rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+  }
+  
+  .about .lead {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+  }
+  
+  footer {
+    padding: 1.5rem 0;
+    font-size: 1rem;
+  }
